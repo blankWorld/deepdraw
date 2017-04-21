@@ -2,11 +2,14 @@ Action Deep Draw
 ======
 
 The iPython notebooks 
+
 https://github.com/yjxiong/deepdraw/blob/master/deepdraw-TSN-RGB.ipynb
+
 and
+
 https://github.com/yjxiong/deepdraw/blob/master/deepdraw-TSN-Flow.ipynb
 
-visualizes action recognition models learned with [TSN](https://github.com/yjxiong/temporal-segment-networks).
+visualize action recognition models learned with [TSN](https://github.com/yjxiong/temporal-segment-networks).
 
 
 DeepDraw
